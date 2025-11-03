@@ -1,1 +1,1 @@
-No email address and/or other information are saved.
+No email address and/or other informations are saved.
