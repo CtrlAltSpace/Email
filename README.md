@@ -1,1 +1,1 @@
-No email address and/or other informations are saved.
+This program does not collect, store, or retain any email addresses, email history, or other personally identifiable information.
